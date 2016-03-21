@@ -1,2 +1,2 @@
-# Topolog-a-2016
+# Topología-2016
 Documentos del curso básico de topología
